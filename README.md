@@ -1,6 +1,9 @@
 # Posters
 
-Required fonts:
+Here we collect project, conference and workshop posters. 
+You can find empty templates for the workshop posters as svg (editable with e.g. InkScape) and pdf (you could add your info with e.g. Powerpoint or Photoshop etc.).
+
+Required fonts for some posters:
 - Allegre Sans
 - Futura LtCn BT
 - sans-serif
