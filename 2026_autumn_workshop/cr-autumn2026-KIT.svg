@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
-   sodipodi:docname="cr-autumn2026-idea.svg"
+   sodipodi:docname="cr-autumn2026-KIT.svg"
    inkscape:export-filename="cr-autumn2026-idea.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
@@ -27,15 +27,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.69462191"
-     inkscape:cx="228.18169"
-     inkscape:cy="377.90343"
+     inkscape:zoom="37.100165"
+     inkscape:cx="580.17262"
+     inkscape:cy="541.06228"
      inkscape:window-width="1916"
      inkscape:window-height="1034"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g26" />
+     inkscape:current-layer="layer1" />
   <defs
      id="defs1">
     <clipPath
@@ -712,13 +712,13 @@
          y="132.80197">RESEARCH</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.9166px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#55d400;stroke-width:0.127678"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.9166px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#a9ff71;stroke-width:0.127678;fill-opacity:1"
        x="81.3396"
        y="43.13797"
        id="text14"><tspan
          sodipodi:role="line"
          id="tspan14"
-         style="fill:#55d400;stroke-width:0.127678"
+         style="fill:#a9ff71;fill-opacity:1;stroke-width:0.127678"
          x="81.3396"
          y="43.13797">BETTER</tspan></text>
     <text
@@ -778,7 +778,7 @@
     <rect
        style="display:inline;opacity:0.95;fill:#5c4e98;fill-opacity:1;stroke:none;stroke-width:0.199113;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect5916"
-       width="210.2012"
+       width="210.201"
        height="61.334923"
        x="3.7233035e-06"
        y="135.14897" />
@@ -810,14 +810,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.68273px;line-height:0%;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.222757px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="-191.20518"
-       y="145.31386"
+       x="-192.2858"
+       y="147.41927"
        id="text120124"
        transform="rotate(-90.604378)"><tspan
          sodipodi:role="line"
          id="tspan120122"
-         x="-191.20518"
-         y="145.31386"
+         x="-192.2858"
+         y="147.41927"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.68273px;line-height:0.84;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.222757px">FURTHER INFO</tspan></text>
     <text
        xml:space="preserve"
@@ -854,21 +854,21 @@
          id="tspan23" /></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:4.69px;line-height:0%;font-family:'Alegre Sans';-inkscape-font-specification:'Alegre Sans Condensed';letter-spacing:0px;word-spacing:0px;display:inline;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.2345px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="-184.81839"
-       y="202.55072"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:4.19116px;line-height:0%;font-family:'Alegre Sans';-inkscape-font-specification:'Alegre Sans Condensed';letter-spacing:0px;word-spacing:0px;display:inline;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.209558px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-189.14796"
+       y="204.34383"
        id="text6055"
        transform="rotate(-89.474559)"
-       inkscape:transform-center-x="18.145018"
-       inkscape:transform-center-y="58.146532"><tspan
+       inkscape:transform-center-x="16.215066"
+       inkscape:transform-center-y="51.96191"><tspan
          sodipodi:role="line"
          id="tspan6057"
-         x="-184.81839"
-         y="202.55072"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.69px;line-height:0.84;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, ';fill:#ffffff;stroke-width:0.2345px">https://indico.kit.edu/</tspan></text>
+         x="-189.14796"
+         y="204.34383"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.19116px;line-height:0.84;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, ';fill:#ffffff;stroke-width:0.209558px">https://indico.kit.edu/e/cr26</tspan></text>
     <g
        id="g26"
-       transform="translate(0,-1.429406)">
+       transform="translate(-1.5875,-1.429406)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#f9f9f9;stroke-width:0.264583"
@@ -885,24 +885,24 @@
            style="font-weight:bold;stroke-width:0.264583"
            x="7.8387237"
            y="179.69368"
-           id="tspan21-0">CAMPUS SOUTH 20.20 OR ONLINE</tspan></text>
+           id="tspan21-0">CAMPUS SOUTH 20.20 AND ONLINE</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#f9f9f9;stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#f9f9f9;stroke-width:0.264583"
          x="7.2827458"
          y="182.85561"
          id="text20-0-6"><tspan
            sodipodi:role="line"
            id="tspan20-9-1"
-           style="stroke-width:0.264583"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
            x="7.2827458"
            y="182.85561" /><tspan
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
            x="7.2827458"
            y="191.67505"
            id="tspan22-8"
-           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1.5236106">FREE OF CHARGE BUT PLEASE REGISTER</tspan></text>
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1.5236106">FREE TO JOIN  BUT PLEASE REGISTER</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#f9f9f9;stroke-width:0.264583"
@@ -926,9 +926,9 @@
          transform="matrix(0.28222223,0,0,0.32702796,-72.778623,-19.806215)"><tspan
            x="427.36118"
            y="519.05841"
-           id="tspan2"><tspan
+           id="tspan5"><tspan
              style="font-weight:bold"
-             id="tspan1">JOIN ANY SESSION</tspan></tspan></text>
+             id="tspan3">JOIN ANY SESSION</tspan></tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#f9f9f9;stroke-width:0.264583"
@@ -967,19 +967,17 @@
          id="tspan25"
          style="stroke-width:0.264583" /></text>
     <g
-       id="g2">
-      <rect
-         style="fill:#f9f9f9;stroke-width:1.47381"
-         id="rect3"
-         width="43.087849"
-         height="43.086571"
-         x="150.75108"
-         y="142.97913" />
+       id="g1">
+      <path
+         fill="#ffffff"
+         d="m 151.30686,142.57695 h 46.55448 v 46.55448 h -46.55448 z"
+         id="path1"
+         style="stroke-width:1.25823" />
       <path
          stroke="#000000"
-         d="m 150.75109,143.72237 h 10.40529 m 2.97294,0 h 10.40529 m 2.97294,0 h 1.48647 m 1.48647,0 h 1.48647 m 1.48647,0 h 10.40529 m -43.10763,1.48647 h 1.48647 m 7.43235,0 h 1.48647 m 1.48647,0 h 1.48647 m 2.97294,0 h 2.97294 m 2.97294,0 h 1.48647 m 1.48647,0 h 1.48647 m 2.97294,0 h 1.48647 m 1.48647,0 h 1.48647 m 7.43235,0 h 1.48647 m -43.10763,1.48647 h 1.48647 m 1.48647,0 h 4.45941 m 1.48647,0 h 1.48647 m 1.48647,0 h 2.97294 m 2.97294,0 h 1.48647 m 1.48647,0 h 1.48647 m 1.48647,0 h 1.48647 m 4.45941,0 h 1.48647 m 1.48647,0 h 1.48647 m 1.48647,0 h 4.45941 m 1.48647,0 h 1.48647 m -43.10763,1.48647 h 1.48647 m 1.48647,0 h 4.45941 m 1.48647,0 h 1.48647 m 1.48647,0 h 7.43235 m 1.48647,0 h 2.97294 m 1.48647,0 h 1.48647 m 5.94588,0 h 1.48647 m 1.48647,0 h 4.45941 m 1.48647,0 h 1.48647 m -43.10763,1.48647 h 1.48647 m 1.48647,0 h 4.45941 m 1.48647,0 h 1.48647 m 4.45941,0 h 1.48647 m 1.48647,0 h 5.94588 m 2.97294,0 h 4.45941 m 1.48647,0 h 1.48647 m 1.48647,0 h 4.45941 m 1.48647,0 h 1.48647 m -43.10763,1.48647 h 1.48647 m 7.43235,0 h 1.48647 m 2.97294,0 h 2.97294 m 2.97294,0 h 2.97294 m 1.48647,0 h 1.48647 m 7.43235,0 h 1.48647 m 7.43235,0 h 1.48647 m -43.10763,1.48647 h 10.40529 m 1.48647,0 h 1.48647 m 1.48647,0 h 1.48647 m 1.48647,0 h 1.48647 m 1.48647,0 h 1.48647 m 1.48647,0 h 1.48647 m 1.48647,0 h 1.48647 m 1.48647,0 h 1.48647 m 1.48647,0 h 10.40529 m -31.21587,1.48647 h 2.97294 m 4.45941,0 h 1.48647 m 8.91882,0 h 1.48647 m -31.21587,1.48647 h 1.48647 m 7.43235,0 h 1.48647 m 1.48647,0 h 2.97294 m 1.48647,0 h 2.97294 m 1.48647,0 h 2.97294 m 1.48647,0 h 2.97294 m 2.97294,0 h 2.97294 m 2.97294,0 h 4.45941 m -41.62116,1.48647 h 1.48647 m 2.97294,0 h 2.97294 m 2.97294,0 h 4.45941 m 5.94588,0 h 1.48647 m 2.97294,0 h 4.45941 m 4.45941,0 h 2.97294 m 1.48647,0 h 2.97294 m -41.62116,1.48647 h 5.94588 m 1.48647,0 h 7.43235 m 1.48647,0 h 1.48647 m 7.43235,0 h 1.48647 m 2.97294,0 h 2.97294 m 1.48647,0 h 2.97294 m -34.18881,1.48647 h 1.48647 m 2.97294,0 h 1.48647 m 4.45941,0 h 1.48647 m 1.48647,0 h 2.97294 m 1.48647,0 h 4.45941 m 4.45941,0 h 4.45941 m 2.97294,0 h 1.48647 m -35.67528,1.48647 h 1.48647 m 4.45941,0 h 1.48647 m 2.97294,0 h 2.97294 m 1.48647,0 h 4.45941 m 1.48647,0 h 1.48647 m 2.97294,0 h 2.97294 m 1.48647,0 h 2.97294 m 5.94588,0 h 1.48647 m -43.10763,1.48647 h 2.97294 m 1.48647,0 h 1.48647 m 1.48647,0 h 1.48647 m 1.48647,0 h 4.45941 m 4.45941,0 h 2.97294 m 4.45941,0 h 4.45941 m 1.48647,0 h 4.45941 m 2.97294,0 h 2.97294 m -40.13469,1.48647 h 2.97294 m 1.48647,0 h 2.97294 m 4.45941,0 h 1.48647 m 1.48647,0 h 5.94588 m 1.48647,0 h 2.97294 m 4.45941,0 h 1.48647 m 1.48647,0 h 4.45941 m -40.13469,1.48647 h 8.91882 m 1.48647,0 h 1.48647 m 1.48647,0 h 8.91882 m 1.48647,0 h 1.48647 m 2.97294,0 h 1.48647 m 1.48647,0 h 1.48647 m 1.48647,0 h 2.97294 m 1.48647,0 h 1.48647 m 1.48647,0 h 1.48647 m -43.10763,1.48647 h 4.45941 m 2.97294,0 h 4.45941 m 1.48647,0 h 1.48647 m 1.48647,0 h 1.48647 m 2.97294,0 h 5.94588 m 1.48647,0 h 1.48647 m 1.48647,0 h 1.48647 m 4.45941,0 h 2.97294 m -40.13469,1.48647 h 1.48647 m 5.94588,0 h 1.48647 m 1.48647,0 h 1.48647 m 2.97294,0 h 1.48647 m 5.94588,0 h 2.97294 m 2.97294,0 h 1.48647 m 2.97294,0 h 4.45941 m 1.48647,0 h 4.45941 m -43.10763,1.48647 h 4.45941 m 1.48647,0 h 1.48647 m 1.48647,0 h 4.45941 m 2.97294,0 h 7.43235 m 2.97294,0 h 4.45941 m 2.97294,0 h 1.48647 m 1.48647,0 h 1.48647 m 2.97294,0 h 1.48647 m -43.10763,1.48647 h 1.48647 m 1.48647,0 h 2.97294 m 5.94588,0 h 2.97294 m 5.94588,0 h 1.48647 m 4.45941,0 h 1.48647 m 1.48647,0 h 1.48647 m 1.48647,0 h 2.97294 m -35.67528,1.48647 h 1.48647 m 1.48647,0 h 1.48647 m 4.45941,0 h 10.40529 m 5.94588,0 h 2.97294 m 1.48647,0 h 7.43235 m 1.48647,0 h 4.45941 m -31.21587,1.48647 h 5.94588 m 1.48647,0 h 1.48647 m 1.48647,0 h 1.48647 m 4.45941,0 h 2.97294 m 4.45941,0 h 2.97294 m -38.64822,1.48647 h 10.40529 m 4.45941,0 h 2.97294 m 1.48647,0 h 4.45941 m 1.48647,0 h 5.94588 m 1.48647,0 h 1.48647 m 1.48647,0 h 4.45941 m -40.13469,1.48647 h 1.48647 m 7.43235,0 h 1.48647 m 2.97294,0 h 1.48647 m 2.97294,0 h 2.97294 m 1.48647,0 h 2.97294 m 1.48647,0 h 4.45941 m 4.45941,0 h 1.48647 m 2.97294,0 h 1.48647 m -41.62116,1.48647 h 1.48647 m 1.48647,0 h 4.45941 m 1.48647,0 h 1.48647 m 4.45941,0 h 2.97294 m 1.48647,0 h 1.48647 m 1.48647,0 h 1.48647 m 2.97294,0 h 11.89176 m 1.48647,0 h 2.97294 m -43.10763,1.48647 h 1.48647 m 1.48647,0 h 4.45941 m 1.48647,0 h 1.48647 m 2.97294,0 h 1.48647 m 1.48647,0 h 2.97294 m 2.97294,0 h 1.48647 m 4.45941,0 h 1.48647 m 1.48647,0 h 1.48647 m 4.45941,0 h 2.97294 m 1.48647,0 h 1.48647 m -43.10763,1.48647 h 1.48647 m 1.48647,0 h 4.45941 m 1.48647,0 h 1.48647 m 2.97294,0 h 1.48647 m 2.97294,0 h 1.48647 m 1.48647,0 h 2.97294 m 2.97294,0 h 1.48647 m 1.48647,0 h 11.89176 m -41.62116,1.48647 h 1.48647 m 7.43235,0 h 1.48647 m 7.43235,0 h 7.43235 m 1.48647,0 h 1.48647 m 5.94588,0 h 5.94588 m 1.48647,0 h 1.48647 m -43.10763,1.48647 h 10.40529 m 1.48647,0 h 2.97294 m 1.48647,0 h 2.97294 m 1.48647,0 h 8.91882 m 2.97294,0 h 1.48647 m 4.45941,0 h 1.48647"
+         d="m 151.29242,143.36564 h 11.24374 m 1.60625,0 h 1.60625 m 1.60625,0 h 4.81874 m 6.42499,0 h 3.2125 m 1.60625,0 h 1.60625 m 1.60625,0 h 11.24373 m -46.5812,1.60625 h 1.60625 m 8.03124,0 h 1.60625 m 3.2125,0 h 3.21249 m 1.60625,0 h 1.60625 m 4.81875,0 h 3.21249 m 1.60625,0 h 1.60625 m 3.2125,0 h 1.60625 m 8.03124,0 h 1.60624 m -46.5812,1.60624 h 1.60625 m 1.60625,0 h 4.81875 m 1.60624,0 h 1.60625 m 3.2125,0 h 1.60625 m 1.60624,0 h 1.60625 m 1.60625,0 h 1.60625 m 1.60625,0 h 6.42499 m 1.60625,0 h 1.60625 m 1.60625,0 h 1.60625 m 1.60624,0 h 4.81875 m 1.60625,0 h 1.60624 m -46.5812,1.60625 h 1.60625 m 1.60625,0 h 4.81875 m 1.60624,0 h 1.60625 m 1.60625,0 h 1.60625 m 3.21249,0 h 1.60625 m 3.2125,0 h 4.81874 m 1.60625,0 h 1.60625 m 1.60625,0 h 1.60625 m 1.60625,0 h 1.60625 m 1.60624,0 h 4.81875 m 1.60625,0 h 1.60624 m -46.5812,1.60625 h 1.60625 m 1.60625,0 h 4.81875 m 1.60624,0 h 1.60625 m 1.60625,0 h 1.60625 m 6.42499,0 h 3.2125 m 1.60625,0 h 1.60624 m 1.60625,0 h 1.60625 m 4.81875,0 h 1.60625 m 1.60624,0 h 4.81875 m 1.60625,0 h 1.60624 m -46.5812,1.60625 h 1.60625 m 8.03124,0 h 1.60625 m 1.60625,0 h 1.60625 m 3.21249,0 h 1.60625 m 1.60625,0 h 4.81875 m 4.81874,0 h 3.2125 m 1.60625,0 h 1.60625 m 8.03124,0 h 1.60624 m -46.5812,1.60625 h 11.24374 m 1.60625,0 h 1.60625 m 1.60625,0 h 1.60624 m 1.60625,0 h 1.60625 m 1.60625,0 h 1.60625 m 1.60625,0 h 1.60624 m 1.60625,0 h 1.60625 m 1.60625,0 h 1.60625 m 1.60625,0 h 11.24373 m -33.73121,1.60625 h 1.60625 m 4.81874,0 h 1.60625 m 1.60625,0 h 1.60625 m 3.21249,0 h 3.2125 m 1.60625,0 h 1.60625 m -33.73122,1.60624 h 1.60625 m 4.81875,0 h 1.60625 m 1.60624,0 h 4.81875 m 4.81874,0 h 6.425 m 1.60624,0 h 1.60625 m 1.60625,0 h 11.24374 m 3.2125,0 h 1.60624 m -43.3687,1.60625 h 4.81875 m 4.81874,0 h 3.2125 m 19.27498,0 h 11.24373 m -36.94371,1.60625 h 3.2125 m 3.2125,0 h 3.21249 m 1.60625,0 h 6.42499 m 1.60625,0 h 1.60625 m 1.60625,0 h 4.81875 m 8.03124,0 h 1.60624 m -46.5812,1.60625 h 1.60625 m 1.60625,0 h 6.42499 m 6.425,0 h 1.60624 m 1.60625,0 h 3.2125 m 1.60625,0 h 4.81874 m 3.2125,0 h 1.60625 m 3.2125,0 h 4.81874 m 1.60625,0 h 3.21249 m -46.5812,1.60625 h 4.81875 m 1.60625,0 h 1.60625 m 1.60624,0 h 4.81875 m 6.42499,0 h 1.60625 m 4.81874,0 h 1.60625 m 1.60625,0 h 4.81875 m 8.03124,0 h 1.60625 m -43.36871,1.60625 h 1.60625 m 4.81875,0 h 1.60624 m 1.60625,0 h 4.81875 m 1.60624,0 h 9.63749 m 1.60625,0 h 1.60625 m 4.81875,0 h 11.24373 m -44.97495,1.60624 h 1.60625 m 1.60625,0 h 6.42499 m 1.60625,0 h 1.60625 m 1.60625,0 h 1.60624 m 1.60625,0 h 1.60625 m 3.2125,0 h 1.60625 m 1.60624,0 h 3.2125 m 6.425,0 h 1.60624 m 1.60625,0 h 3.2125 m 1.60625,0 h 1.60624 m -46.5812,1.60625 h 1.60625 m 1.60625,0 h 4.81875 m 3.21249,0 h 4.81875 m 1.60624,0 h 1.60625 m 3.2125,0 h 11.24374 m 9.63749,0 h 3.21249 m -40.1562,1.60625 h 1.60625 m 1.60624,0 h 9.63749 m 1.60625,0 h 3.2125 m 3.21249,0 h 1.60625 m 3.2125,0 h 1.60625 m 9.63749,0 h 1.60625 m -44.97496,1.60625 h 1.60625 m 3.2125,0 h 3.2125 m 3.21249,0 h 3.2125 m 3.21249,0 h 3.2125 m 4.81875,0 h 4.81874 m 1.60625,0 h 1.60625 m 1.60625,0 h 6.42499 m 1.60625,0 h 3.21249 m -43.3687,1.60625 h 8.03124 m 1.60625,0 h 3.2125 m 1.60624,0 h 1.60625 m 1.60625,0 h 4.81875 m 3.21249,0 h 1.60625 m 6.425,0 h 3.21249 m 1.60625,0 h 1.60625 m 1.60625,0 h 1.60624 m -43.3687,1.60624 h 1.60625 m 1.60625,0 h 1.60625 m 4.81874,0 h 1.60625 m 1.60625,0 h 6.42499 m 1.60625,0 h 1.60625 m 1.60624,0 h 1.60625 m 3.2125,0 h 3.2125 m 3.21249,0 h 1.60625 m 3.2125,0 h 3.21249 m -46.5812,1.60625 h 14.45624 m 6.42499,0 h 1.60625 m 1.60625,0 h 1.60625 m 1.60624,0 h 1.60625 m 1.60625,0 h 11.24374 m 3.2125,0 h 1.60624 m -33.73121,1.60625 h 1.60625 m 1.60625,0 h 9.63749 m 6.42499,0 h 1.60625 m 4.81874,0 h 1.60625 m 4.81875,0 h 1.60624 m -46.5812,1.60625 h 11.24374 m 1.60625,0 h 1.60625 m 4.81874,0 h 1.60625 m 3.2125,0 h 9.63749 m 1.60625,0 h 1.60625 m 1.60624,0 h 4.81875 m 1.60625,0 h 1.60624 m -46.5812,1.60625 h 1.60625 m 8.03124,0 h 1.60625 m 11.24374,0 h 3.2125 m 1.60624,0 h 1.60625 m 1.60625,0 h 3.2125 m 4.81874,0 h 1.60625 m 3.2125,0 h 3.21249 m -46.5812,1.60625 h 1.60625 m 1.60625,0 h 4.81875 m 1.60624,0 h 1.60625 m 1.60625,0 h 3.2125 m 4.81874,0 h 3.2125 m 1.60625,0 h 16.06248 m 1.60625,0 h 3.21249 m -46.5812,1.60624 h 1.60625 m 1.60625,0 h 4.81875 m 1.60624,0 h 1.60625 m 3.2125,0 h 3.21249 m 1.60625,0 h 1.60625 m 8.03124,0 h 1.60625 m 1.60625,0 h 3.2125 m 8.03124,0 h 1.60625 m -44.97496,1.60625 h 1.60625 m 1.60625,0 h 4.81875 m 1.60624,0 h 1.60625 m 4.81875,0 h 1.60624 m 1.60625,0 h 3.2125 m 4.81874,0 h 1.60625 m 3.2125,0 h 3.2125 m 4.81874,0 h 6.42499 m -46.5812,1.60625 h 1.60625 m 8.03124,0 h 1.60625 m 6.42499,0 h 3.2125 m 1.60625,0 h 1.60625 m 3.21249,0 h 1.60625 m 3.2125,0 h 3.2125 m 4.81874,0 h 1.60625 m 1.60625,0 h 3.21249 m -46.5812,1.60625 h 11.24374 m 1.60625,0 h 1.60625 m 1.60625,0 h 1.60624 m 3.2125,0 h 1.60625 m 3.2125,0 h 4.81874 m 1.60625,0 h 4.81875 m 3.21249,0 h 1.60625 m 1.60625,0 h 1.60625"
          id="path2"
-         style="stroke-width:1.48647" />
+         style="stroke-width:1.60625" />
     </g>
   </g>
 </svg>
